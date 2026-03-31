@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Cursor",
+  "base_artist": "PURPLE KISS",
+  "createdAt": "2026-03-31T14:04:57.831438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "cursor",
+      "artist": "Lil Ugly Mane",
+      "has_synced": false,
+      "path": "select/01_cursor_Lil_Ugly_Mane.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are Electric (Cursor Miner Remix)",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/02_We_Are_Electric_(Cursor_Miner_Remix)_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cursor",
+      "artist": "PURPLE KISS",
+      "has_synced": true,
+      "path": "select/03_Cursor_PURPLE_KISS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "빈틈 (Cursor)",
+      "artist": "PURPLE KISS",
+      "has_synced": true,
+      "path": "select/04_빈틈_(Cursor)_PURPLE_KISS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are Electric (Cursor Miner's in Good Shape remix)",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/05_We_Are_Electric_(Cursor_Miner's_in_Good_Shape_remix)_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cursor",
+      "artist": "Chokebore",
+      "has_synced": false,
+      "path": "select/06_Cursor_Chokebore.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cursor",
+      "artist": "PURPLE KISS",
+      "has_synced": false,
+      "path": "select/pl_01_Cursor_PURPLE_KISS.txt"
+    }
+  ]
+}
